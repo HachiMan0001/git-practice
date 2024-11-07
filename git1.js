@@ -1,0 +1,1 @@
+console.log("version1 kanina ay isa sayng function ngayon naman ay string na")
